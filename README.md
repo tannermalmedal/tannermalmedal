@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tannermalmedal" target="blank"><img src="https://img.shields.io/twitter/follow/tannermalmedal?logo=twitter&style=for-the-badge" alt="tannermalmedal" /></a> </p>
 
-- 🔭 I’m currently working on [Swell, an all-in-one API testing development tool](https://github.com/open-source-labs/Swell)
+- 🔭 I’m currently working as a Web Developer at Jersey College!
 
 - 💬 Ask me about **React, TypeScript, CSS, and tRPC**
 
